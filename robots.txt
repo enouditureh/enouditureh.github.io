@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://enouditureh.github.io/sitemap
+Sitemap: https://enouditureh.github.io/app/sitemap
+Sitemap: https://enouditureh.github.io/assets/sitemap
+Sitemap: https://enouditureh.github.io/css/sitemap
+Sitemap: https://enouditureh.github.io/includes/sitemap
+Sitemap: https://enouditureh.github.io/item/sitemap
+Sitemap: https://enouditureh.github.io/src/sitemap
